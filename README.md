@@ -1,4 +1,6 @@
 Sequence model
+
+
 Imagine that you are watching movies on Netflix. As a good Netflix user, you decide to rate each of the movies religiously. After all, a good movie is a good movie, and you want to watch more of them, right? As it turns out, things are not quite so simple. People’s opinions on movies can change quite significantly over time. In fact, psychologists even have names for some of the effects:
 
 There is anchoring, based on someone else’s opinion. For instance after the Oscar awards, ratings for the corresponding movie go up, even though it is still the same movie. This effect persists for a few months until the award is forgotten. [Wu et al., 2017] showed that the effect lifts rating by over half a point.
