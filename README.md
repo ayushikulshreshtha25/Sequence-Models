@@ -1,4 +1,4 @@
-Sequence model
+# Sequence model
 
 
 Imagine that you are watching movies on Netflix. As a good Netflix user, you decide to rate each of the movies religiously. After all, a good movie is a good movie, and you want to watch more of them, right? As it turns out, things are not quite so simple. People’s opinions on movies can change quite significantly over time. In fact, psychologists even have names for some of the effects:
